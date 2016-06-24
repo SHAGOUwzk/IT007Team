@@ -12,6 +12,7 @@
 {
     NSMutableData *_data;
     NSMutableArray*_dataArray;
+    NSInteger newAdd;
 }
 
 @end
